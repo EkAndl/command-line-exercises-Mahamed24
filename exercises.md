@@ -11,8 +11,9 @@ ls -la
 3: Output who the active user is.
 whoami farah
 4: Output hidden files.
-
+ls -la
 5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines.
+echo "needle banish needle stock needle" > bay.txt
 
 6: Use: echo "evaluate recommend experienced pen advice" > "advice.txt" to create or overwrite "advice.txt".
 
